@@ -1,10 +1,5 @@
 //Write a program to print whether a number is even or odd, also take input.
 import java.util.Scanner;
-
-
-
-
-
 class even_odd{
     public static void main(String[] args) {
        Scanner in=new Scanner(System.in);
