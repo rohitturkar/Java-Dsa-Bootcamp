@@ -1,8 +1,6 @@
 
 //Input currency in rupees and output in USD.
 import java.util.Scanner;
-
-import javax.sound.sampled.SourceDataLine;
 public class Question6 {
     public static void main(String[] args) {
        Scanner in=new Scanner(System.in);
