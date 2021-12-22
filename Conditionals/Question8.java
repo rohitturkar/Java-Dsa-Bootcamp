@@ -1,6 +1,6 @@
 //Perimeter Of Circle
 import java.util.Scanner;
-public class Question8 {
+public class Question8{
     public static void main(String[] args) {
        Scanner in=new Scanner(System.in);
        System.out.println("Enter the radius of circle");
